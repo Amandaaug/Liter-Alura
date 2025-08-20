@@ -34,4 +34,4 @@ Aqui estão as ferramentas necessárias, versões recomendadas e os passos para 
    ```
 
 ## 👨‍💻 Autor
-Projeto desenvolvido por **Vinicius Teixeira** para estudos de **Spring Boot + PostgreSQL**.
+Projeto desenvolvido por **Amanda. A da Silva** para estudos de **Spring Boot + PostgreSQL**.
